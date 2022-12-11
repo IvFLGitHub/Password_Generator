@@ -1,0 +1,7 @@
+How to use:
+
+  PUT data.txt and Password_Generator.py on the same directory. ex: desktop
+
+1. Write username at the top of the window.
+2. Click on "Generar contraseña"
+3. Open data.txt and see your password generated.
